@@ -22,7 +22,7 @@ public class studente {
     private int numeromatricola;
     
 //creazione del costruttore dove gli passiamo tutti gli attributi
-    public studente (String nomeMarca, String nomeModello, String Targa, int AnnoDiImmatricolazione){
+    public studente (String nome, String cognome, String codice fiscale, int numeromatricola){
      
     }
     //metodo set che settrà la variabile cognome
